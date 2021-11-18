@@ -18,8 +18,8 @@ int main() {
 	read_airport_conections(graph);
 
 	do {
-		cout << "\nWelcome to the the flights-airports conection system\n";
-		cout << "0. Exit\n";
+		cout << "\nBienvenido a siatema de conexion de vuelos!\n";
+		cout << "0. Salir\n";
 		cout << "1. Aeropuerto con  más conecciones\n";
 		cout << "2. Buscar código de aeropuerto\n";
 		cout << "3. Casos de prueba\n";
