@@ -1,6 +1,8 @@
 ## Descripción
 El código se probó utulizando el editor de texto en línea Repl.it
+
 Atividad integradora de Carlos Davalos. Aquí puedes encontar datos sobre las emisiones de cárbono que producen los países durante un año a lo largo de la historia. Tiene un tamaño de cuatro columnas (país, código del país, año y emisiones totales) y 20,853 entradas. El usuario puede imprimir en consola toda la tabla o una porción de ella ingresando un rango; puede ordenar la tabla o una porción de ella, en base a una de las cuatro variables disponibes (entidad, el código, año y emisiones totales); y buscar cualquier valor en la tabla.
+
 Los casos de prueba se encuentran en la opcion 5 del menú inicial.
 
 ## Estructura nueva
